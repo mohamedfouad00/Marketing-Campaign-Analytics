@@ -15,4 +15,4 @@
 
 ## Excel Dashboard
 
-![Marketing Campaign Dashboard](dashboards/excel_dashboard.png)
+![Marketing Campaign Dashboard](dashboards/excel%20dashboard.png)
