@@ -16,3 +16,8 @@
 ## Excel Dashboard
 
 ![Marketing Campaign Dashboard](Dashboards/excel.png)
+
+
+## Data Model
+
+![Model](Dashboards/model.png)
