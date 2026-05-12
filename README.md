@@ -4,7 +4,7 @@
 
 A comprehensive data analytics project analyzing marketing campaign effectiveness, customer behavior, and product profitability across 5 campaigns using Power BI dashboards, Excel analytics, and SQL Server.
 
-## 📊 Project Overview
+##  Project Overview
 
 This project leverages campaign data to provide actionable insights for marketing optimization:
 
@@ -14,13 +14,13 @@ This project leverages campaign data to provide actionable insights for marketin
 - **$51.84K** average customer income
 - **0.5%** complaint ratio (low operational risk)
 
-  ## ⚡ Quick Start
+  ##  Quick Start
 
 - **New to this project?** See [Getting Started](#-getting-started)
 - **Want to run queries?** Check [SQL Queries](#-sql-queries)
 - **Looking for dashboards?** View [Dashboards](#-dashboards)
 
-## 🎯 Key Insights
+##  Key Insights
 
 ### Campaign Performance
 | Campaign | Acceptance Rate | Status |
@@ -45,7 +45,7 @@ This project leverages campaign data to provide actionable insights for marketin
 - Age: 45–65 years
 - Contribution: ~47% of premium sales
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Marketing-Campaign-Analytics/
@@ -62,7 +62,7 @@ Marketing-Campaign-Analytics/
 └── .gitignore
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -72,7 +72,7 @@ Marketing-Campaign-Analytics/
 | **Language** | T-SQL |
 | **Modeling** | Star Schema (Dimensional) |
 
-## 📊 Dashboards
+##  Dashboards
 
 ### 1. Campaigns Dashboard
 ![Campaigns Dashboard](Dashboards/campaigns.png)
@@ -140,7 +140,7 @@ Interactive analysis with campaign acceptance toggles and demographic breakdowns
 
 ---
 
-## 🔍 SQL Queries
+##  SQL Queries
 
 ### Core Queries Included
 
@@ -263,7 +263,7 @@ FROM FactCustomerPurchases
 ORDER BY (Amount_Drinks + Amount_Meat + Amount_Fish + Amount_Fruits + Amount_Gold + Amount_Sweet) DESC;
 ```
 
-## 📈 Key Recommendations
+##  Key Recommendations
 
 ### Immediate Actions (High Priority)
 1. **Phase out Cmp2** - Only 4.5% acceptance rate (ROI negative)
@@ -278,7 +278,7 @@ ORDER BY (Amount_Drinks + Amount_Meat + Amount_Fish + Amount_Fruits + Amount_Gol
 - Complaint reduction: **+2,000 units retained**
 - **Total potential: 15–20% profit improvement**
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - SQL Server 2019 or higher
@@ -320,7 +320,7 @@ EXEC sp_product_analysis;
 EXEC sp_customer_segmentation;
 ```
 
-## 📋 Usage Examples
+##  Usage Examples
 
 ### Scenario 1: Analyze Top Campaign Performance
 ```sql
@@ -358,18 +358,18 @@ ORDER BY Total_Spent DESC;
 -- Estimated profit boost: 12–15%
 ```
 
-## 📞 Support & Contact
+##  Support & Contact
 
 **Project Author:** Mohamed Fouad  
 **Email:** m.fouad.business002@gmail.com  
 **LinkedIn:** [Mohamed Fouad](https://linkedin.com/in/mohamed-fouad-88608424b)  
 **GitHub:** [@mohamedfouad00](https://github.com/mohamedfouad00)
 
-## 📄 License
+##  License
 
 This project is provided as-is for educational and business analytical purposes.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -379,13 +379,8 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [Power BI Documentation](https://docs.microsoft.com/power-bi/)
-- [SQL Server T-SQL Reference](https://docs.microsoft.com/sql/t-sql/language-reference)
 - [Star Schema Design](https://en.wikipedia.org/wiki/Star_schema)
 
----
-
-**Last Updated:** April 2026  
-**Status:** Active & Maintained
