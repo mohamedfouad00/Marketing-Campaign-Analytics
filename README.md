@@ -381,6 +381,6 @@ Contributions are welcome! Please follow these steps:
 
 ##  Additional Resources
 
-- [Power BI Documentation](https://docs.microsoft.com/power-bi/)
+- [Power BI Documentation]([https://docs.microsoft.com/power-bi/](https://app.powerbi.com/groups/me/reports/5590c599-5271-4f16-ab4a-1e9b8a512371?ctid=c30b544f-ba18-4e2c-8b9e-7fae9fe95e3a&pbi_source=linkShare))
 - [Star Schema Design](https://en.wikipedia.org/wiki/Star_schema)
 
