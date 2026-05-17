@@ -2,7 +2,7 @@
 
 
 ![Status](https://img.shields.io/badge/Status-Active-2E8B57?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI%20%7C%20Excel-1D1D1D?style=for-the-badge&logo=powerbi&logoColor=yellow)
+![Tools](https://img.shields.io/badge/Tools-Power%20BI%20%7C%20Excel-1D1D1D?style=for-the-badge&logo=microsoftpowerbi&logoColor=yellow)
 ![Database](https://img.shields.io/badge/Database-SQL%20Server-1D1D1D?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![Python](https://img.shields.io/badge/Language-Python-1D1D1D?style=for-the-badge&logo=python&logoColor=3776AB)
 
