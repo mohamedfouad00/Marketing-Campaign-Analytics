@@ -1,9 +1,11 @@
 # Marketing Campaign Analytics
 
-![Status](https://img.shields.io/badge/Status-Active-2E8B57?style=for-the-badge&logoColor=white&color=2E8B57)
+
+![Status](https://img.shields.io/badge/Status-Active-2E8B57?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI%20%7C%20Excel-1D1D1D?style=for-the-badge&logo=powerbi&logoColor=yellow)
-![SQL](https://img.shields.io/badge/Database-SQL%20Server-1D1D1D?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Database](https://img.shields.io/badge/Database-SQL%20Server-1D1D1D?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![Python](https://img.shields.io/badge/Language-Python-1D1D1D?style=for-the-badge&logo=python&logoColor=3776AB)
+
 
 A comprehensive data analytics project analyzing marketing campaign effectiveness, customer behavior, and product profitability across 5 campaigns using Power BI dashboards, Excel analytics, and SQL Server.
 
