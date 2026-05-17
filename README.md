@@ -1,6 +1,9 @@
 # Marketing Campaign Analytics
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Power BI](https://img.shields.io/badge/Tool-Power%20BI%20%7C%20Excel-blue) ![SQL](https://img.shields.io/badge/Database-SQL%20Server-CC2927)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen) 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI%20%7C%20Excel-blue) 
+![SQL](https://img.shields.io/badge/Database-SQL%20Server-CC2927) 
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 
 A comprehensive data analytics project analyzing marketing campaign effectiveness, customer behavior, and product profitability across 5 campaigns using Power BI dashboards, Excel analytics, and SQL Server.
 
@@ -381,6 +384,6 @@ Contributions are welcome! Please follow these steps:
 
 ##  Additional Resources
 
-- [Power BI Documentation]([https://docs.microsoft.com/power-bi/](https://app.powerbi.com/groups/me/reports/5590c599-5271-4f16-ab4a-1e9b8a512371?ctid=c30b544f-ba18-4e2c-8b9e-7fae9fe95e3a&pbi_source=linkShare))
+- [Power BI Documentation](https://app.powerbi.com/view?r=eyJrIjoiYjAwNTRkNTUtMmU0Ny00Y2JmLTgzYmYtNWQyYjRkYmNhZjIxIiwidCI6ImMzMGI1NDRmLWJhMTgtNGUyYy04YjllLTdmYWU5ZmU5NWUzYSJ9)
 - [Star Schema Design](https://en.wikipedia.org/wiki/Star_schema)
 
