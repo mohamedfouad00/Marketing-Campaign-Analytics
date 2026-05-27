@@ -24,7 +24,7 @@ This project leverages campaign data to provide actionable insights for marketin
 - **New to this project?** See [Getting Started](#-getting-started)
 - **Want to run queries?** Check [SQL Queries](#-sql-queries)
 - **Looking for dashboards?** View [Dashboards](#-dashboards)
-- **Looking for resources?** View [Additional Resources](#Reference-Resources)
+- **Looking for resources?** View [Reference Resources](#Reference-Resources)
 - **Need to contact or reaching me?** View [Support & Contact](#support--contact)
 
 
