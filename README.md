@@ -19,12 +19,12 @@ This project leverages campaign data to provide actionable insights for marketin
 - **$51.84K** average customer income
 - **0.5%** complaint ratio (low operational risk)
 
-  ##  Quick Start
+  ##  Navigation Pane
 
 - **New to this project?** See [Getting Started](#-getting-started)
 - **Want to run queries?** Check [SQL Queries](#-sql-queries)
 - **Looking for dashboards?** View [Dashboards](#-dashboards)
-- **Looking for resources?** View [Additional Resources](#additional-resources)
+- **Looking for resources?** View [Additional Resources](#Reference-Resources)
 - **Need to contact or reaching me?** View [Support & Contact](#support--contact)
 
 
@@ -389,7 +389,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Additional Resources
+## Reference Resources
 
 - <a href="https://app.powerbi.com/view?r=eyJrIjoiYjAwNTRkNTUtMmU0Ny00Y2JmLTgzYmYtNWQyYjRkYmNhZjIxIiwidCI6ImMzMGI1NDRmLWJhMTgtNGUyYy04YjllLTdmYWU5ZmU5NWUzYSJ9" target="_blank">Power BI Live Reports</a>  
 - <a href="https://en.wikipedia.org/wiki/Star_schema" target="_blank">Star Schema Design</a>  
