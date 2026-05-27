@@ -24,6 +24,9 @@ This project leverages campaign data to provide actionable insights for marketin
 - **New to this project?** See [Getting Started](#-getting-started)
 - **Want to run queries?** Check [SQL Queries](#-sql-queries)
 - **Looking for dashboards?** View [Dashboards](#-dashboards)
+- **Looking for resources?** View [Additional Resources](#additional-resources)
+- **Need to contact or reaching me?** View [Support & Contact](#support--contact)
+
 
 ##  Key Insights
 
@@ -369,8 +372,8 @@ ORDER BY Total_Spent DESC;
 
 **Project Author:** Mohamed Fouad  
 **Email:** m.fouad.business002@gmail.com  
-**LinkedIn:** [Mohamed Fouad](https://linkedin.com/in/mohamed-fouad-88608424b)  
-**GitHub:** [@mohamedfouad00](https://github.com/mohamedfouad00)
+**LinkedIn:** <a href="https://linkedin.com/in/mohamed-fouad-88608424b" target="_blank">Mohamed Fouad</a>  
+**GitHub:** <a href="https://github.com/mohamedfouad00" target="_blank">@mohamedfouad00</a>
 
 ##  License
 
@@ -386,8 +389,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-##  Additional Resources
+## Additional Resources
 
-- [Power BI Documentation](https://app.powerbi.com/view?r=eyJrIjoiYjAwNTRkNTUtMmU0Ny00Y2JmLTgzYmYtNWQyYjRkYmNhZjIxIiwidCI6ImMzMGI1NDRmLWJhMTgtNGUyYy04YjllLTdmYWU5ZmU5NWUzYSJ9)
-- [Star Schema Design](https://en.wikipedia.org/wiki/Star_schema)
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiYjAwNTRkNTUtMmU0Ny00Y2JmLTgzYmYtNWQyYjRkYmNhZjIxIiwidCI6ImMzMGI1NDRmLWJhMTgtNGUyYy04YjllLTdmYWU5ZmU5NWUzYSJ9" target="_blank">Power BI Live Reports</a>  
+- <a href="https://en.wikipedia.org/wiki/Star_schema" target="_blank">Star Schema Design</a>  
+- <a href="https://drive.google.com/file/d/1zmV6ISU1w7JwGAL3n5hNAG8e5odfKMQG/view?usp=sharing" target="_blank">Marketing Campaign – Advanced Effectiveness, Sales & Customer Funnel Report</a>
+
 
